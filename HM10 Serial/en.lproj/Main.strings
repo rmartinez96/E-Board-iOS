@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Connect"; ObjectID = "1az-je-hXQ"; */
+"1az-je-hXQ.text" = "Connect";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6wM-0W-4yk"; */
+"6wM-0W-4yk.text" = "Label";
+
+/* Class = "UILabel"; text = "More Features?"; ObjectID = "AX5-RH-WGZ"; */
+"AX5-RH-WGZ.text" = "More Features?";
+
+/* Class = "UILabel"; text = "Newline"; ObjectID = "Asz-6c-KVE"; */
+"Asz-6c-KVE.text" = "Newline";
+
+/* Class = "UILabel"; text = "Newline"; ObjectID = "Cvj-jL-jd1"; */
+"Cvj-jL-jd1.text" = "Newline";
+
+/* Class = "UITableViewSection"; headerTitle = "Append to message"; ObjectID = "EvA-aK-9Aw"; */
+"EvA-aK-9Aw.headerTitle" = "Append to message";
+
+/* Class = "UILabel"; text = "Nothing"; ObjectID = "HWl-Dz-Ole"; */
+"HWl-Dz-Ole.text" = "Nothing";
+
+/* Class = "UITextField"; placeholder = "Enter your message and hit 'Send'"; ObjectID = "NKM-rO-OFm"; */
+"NKM-rO-OFm.placeholder" = "Enter your message and hit 'Send'";
+
+/* Class = "UILabel"; text = "Both NL & CR"; ObjectID = "UTN-XI-cNk"; */
+"UTN-XI-cNk.text" = "Both NL & CR";
+
+/* Class = "UILabel"; text = "No line ending"; ObjectID = "Wh3-Ek-vmN"; */
+"Wh3-Ek-vmN.text" = "No line ending";
+
+/* Class = "UIBarButtonItem"; title = "Connect"; ObjectID = "ab2-hX-zmf"; */
+"ab2-hX-zmf.title" = "Connect";
+
+/* Class = "UILabel"; text = "Bluetooth Speaker"; ObjectID = "an4-6b-FSY"; */
+"an4-6b-FSY.text" = "Bluetooth Speaker";
+
+/* Class = "UINavigationItem"; title = "Preferences"; ObjectID = "ax3-LF-O77"; */
+"ax3-LF-O77.title" = "Preferences";
+
+/* Class = "UINavigationItem"; title = "BLE"; ObjectID = "bYe-jD-tRw"; */
+"bYe-jD-tRw.title" = "BLE";
+
+/* Class = "UIBarButtonItem"; title = "Try again"; ObjectID = "cle-lH-dvA"; */
+"cle-lH-dvA.title" = "Try again";
+
+/* Class = "UINavigationItem"; title = "Scanning ..."; ObjectID = "eda-Ke-DJ0"; */
+"eda-Ke-DJ0.title" = "Scanning ...";
+
+/* Class = "UIButton"; normalTitle = "Get the Pro version"; ObjectID = "enB-TQ-sXy"; */
+"enB-TQ-sXy.normalTitle" = "Get the Pro version";
+
+/* Class = "UILabel"; text = "Carriage return"; ObjectID = "fak-TI-Mc4"; */
+"fak-TI-Mc4.text" = "Carriage return";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "ncp-Wb-xau"; */
+"ncp-Wb-xau.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Append to received message"; ObjectID = "tQ6-0d-h01"; */
+"tQ6-0d-h01.headerTitle" = "Append to received message";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "uKa-Ue-hGn"; */
+"uKa-Ue-hGn.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
